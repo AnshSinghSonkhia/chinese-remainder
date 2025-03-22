@@ -1,5 +1,5 @@
 function lcm(a, b) {
-    return (a * b) / gcd(a, b);
+    return Math.abs(a * b) / gcd(Math.abs(a), Math.abs(b));
 }
 
 function gcd(a, b) {

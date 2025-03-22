@@ -1,0 +1,43 @@
+{
+  "name": "chinese-remainder",
+  "version": "1.0.0",
+  "description": "A lightweight NPM package for solving modular equations using the Chinese Remainder Theorem (CRT). Supports modular inverse, LCM, and GCD calculations.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnshSinghSonkhia/chinese-remainder.git"
+  },
+  "keywords": [
+    "chinese",
+    "remainder",
+    "theorem",
+    "crt",
+    "modular",
+    "arithmetic",
+    "modular",
+    "equations",
+    "number",
+    "theory",
+    "math",
+    "cryptography",
+    "lcm",
+    "gcd",
+    "modular",
+    "inverse"
+  ],
+  "author": "Ansh Singh Sonkhia",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/AnshSinghSonkhia/chinese-remainder/issues"
+  },
+  "homepage": "https://github.com/AnshSinghSonkhia/chinese-remainder#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
